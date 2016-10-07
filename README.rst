@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/CERNDocumentServer/cds.png?label=ready&title=Ready 
+ :target: https://waffle.io/CERNDocumentServer/cds
+ :alt: 'Stories in Ready'
 ===
 CDS
 ===
